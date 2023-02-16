@@ -37,10 +37,17 @@ try {
 }
 ```
 ### Usage:
- Use Only in Small Industrial Project
- Less Time Consuming
+ 1.Use Only in Small Industrial Project
+ 2.Less Time Consuming
  
- ### FrontEnd:
- Javascript (Node Js)
+### Node FS Rename File
+In this tutorial we will learn how to rename a file synchronously and asynchronously in Node.js using fs module.
+
+Node FS Rename File – To rename file with Node FS, use fs.rename(new_file_name, old_file_name, callback_function) for asynchronous file rename operation and use fs.renameSync(new_file_name, old_file_name) for synchronous file rename operation. In this Node.js Tutorial, we shall learn syntax and examples for fs.rename() and fs.renameSync() functions of Node FS module.
+
+### Syntax – fs.rename()
+The syntax of rename() function is
+
+fs.rename(new_file_path, old_file_path, callback_function)
 
 
