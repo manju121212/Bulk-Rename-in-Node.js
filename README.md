@@ -36,4 +36,11 @@ try {
   console.error(err);
 }
 ```
+### Usage:
+ Use Only in Small Industrial Project
+ Less Time Consuming
+ 
+ ### FrontEnd:
+ Javascript (Node Js)
+
 
